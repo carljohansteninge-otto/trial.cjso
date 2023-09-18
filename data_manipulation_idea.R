@@ -13,4 +13,4 @@ View(gapminder)
 gapminder.americas<- gapminder %>% filter(continent == "Americas")
 View(gapminder.americas)
 
-lhsadjioas
+#test
